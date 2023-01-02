@@ -1,5 +1,4 @@
 function tangga(kata) {
-  
   // mulai loop dari panjang kata yang diberikan
   // setiap iterasi, kurangi 1 dari panjang kata
   for (let i = kata.length; i >= 0; i--) {
@@ -13,6 +12,7 @@ function tangga(kata) {
   console.log(kata);
 }
 
+// variable argumen
 tangga("foxie");
-tangga("3oz4spoon")
-tangga("087840")
+tangga("3oz4spoon");
+tangga("087840");
