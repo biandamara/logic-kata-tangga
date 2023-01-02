@@ -7,7 +7,7 @@ Buatlah program yang menghasilkan gambar yang menyerupai tangga dengan pola seba
 ```jsx
 let kata = 'foxie'
 
-//output yang diharapkan
+// output yang diharapkan
     e
    ei
   xie
