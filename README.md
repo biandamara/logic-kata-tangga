@@ -1,6 +1,7 @@
 # Kata Tangga
 
-Diberikan sebuah variabel `kata` bertipe string. Gunakan variabel tersebut sebagai argumen dalam `Function` yang kalian buat. <br>
+Diberikan sebuah variabel `kata` bertipe string. Gunakan variabel tersebut sebagai argumen dalam `Function` yang kalian buat.
+
 Buatlah program yang menghasilkan gambar yang menyerupai tangga dengan pola sebagai berikut:
 
 ```jsx
