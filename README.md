@@ -1,12 +1,11 @@
 # Kata Tangga
 
-### Restriction
+## Restriction
 - Tidak boleh menggunakan built-in function apapun.
 - Diwajibkan untuk membuat function.
 
-### Directions
+## Directions
 Diberikan sebuah variabel `kata` bertipe string. Gunakan variabel tersebut sebagai argumen dalam `function` yang kalian buat.
-
 
 Buatlah program yang menghasilkan gambar yang menyerupai tangga dengan pola sebagai berikut:
 - Dasar yang paling bawah adalah kata itu sendiri.
